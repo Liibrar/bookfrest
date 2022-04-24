@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "bookfrest",
   "version": "1.9.0",
-  "productName": "Helios Launcher",
+  "productName": "Book Frest",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et Liibrar",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/Liibrar/bookfrest",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/Liibrar/bookfrest/issues"
   },
   "private": true,
   "main": "index.js",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Liibrar/bookfrest.git"
   }
 }
